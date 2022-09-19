@@ -5,8 +5,8 @@ on:
 
 defaults:
   run:
-    working-directory: ./../node-app/
-    
+    working-directory: node-app
+
 jobs:
   default:
     runs-on: ubuntu-latest
