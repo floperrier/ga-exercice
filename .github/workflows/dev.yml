@@ -1,0 +1,6 @@
+name: Push on dev
+
+on:
+  push:
+
+  
