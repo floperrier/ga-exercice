@@ -1,4 +1,4 @@
-console.log("A very basic node js app");
+console.log("A very basic node js app !");
 
 const osu = require("node-os-utils");
 const cpu = osu.cpu;
